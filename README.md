@@ -1,11 +1,18 @@
 ## Hi there 👋
 
 #### Who am I?
-- My name is Necrosis and I like to make programs in my free time
+- My name is Necrosis and I am a 17 year old Canadian programmer and game developer
 
 #### What languages do you know?
-- I know python the best, luau 2nd, and C# 3rd
+- I know python, lua/luau, C#, gdscript
 
-### There isn't much about me tbh but I still hope you enjoy my programs!
+### Projects
+- Random Colour Generator: https://github.com/Necrosis000/Necrosis-Random-Colour-Generator
+- Necrosis-Pokedex: https://github.com/Necrosis000/Necrosis-Pokedex
 
+#### What am I currently working on?
+- Sit in a Box 2D (godot remake)
+
+
+## Stats
 ![Necrosis's GitHub stats](https://github-readme-stats.vercel.app/api?username=necrosis000&show_icons=true&theme=dark)
