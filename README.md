@@ -4,7 +4,7 @@ My name is Necrosis and I am a 17 year old Canadian programmer and game develope
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,lua,cs,html,css,java,godot" />
+    <img src="https://skillicons.dev/icons?i=python,lua,godot,cs,html,css,js,java,cpp," />
   </a>
 </p>
 
