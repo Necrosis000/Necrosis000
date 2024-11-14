@@ -1,5 +1,5 @@
 #### Who am I?
-My name is Necrosis and I am a 17 year old Canadian programmer and game developer
+My name is Necrosis and I am a 17 year old Canadian programmer, modder and game developer
 
 
 <p align="center">
